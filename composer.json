@@ -11,7 +11,7 @@
     "require": {
         "packagist/yuicompressor-bin": "2.4.8",
         "packagist/cssembed-bin": "0.4.5",
-        "campaignchain/distribution-ce": "dev-master"
+        "campaignchain/distribution-ce": "dev-google-analytics"
     },
     "require-dev": {
         "campaignchain/dev-tools": "dev-master"
